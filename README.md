@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @sjsuraj
-- 👀 I’m interested in Desktop Gaming, Badminton, and other sports as well...
-- 🌱 I’m currently working on Angular & trynna learning ReactJs...
+- 👀 I’m interested in Desktop Gaming, Badminton, and other sports as well.
+- 🌱 I’m currently working as Data Engineer, and trying to enhance my skills in the same field.
+- 🌱 I also have multiple stack experience like Full Stack, Front-End Development & R&D Research & Management.
 - 💞️ I’m looking to collaborate on any of the Technology that you prefer.
 - 📫 How to reach me: via email: surajsachdeva2497@gmail.com...
 
